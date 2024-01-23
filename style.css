@@ -1,0 +1,50 @@
+body
+{
+  color: rgb(221, 106, 106);
+  background: #a0d2e8;
+  font-family:fantasy;
+}
+
+p
+{
+    font-size: 34px;
+
+}
+
+span
+{
+  font-size: 60px;
+}
+#camera
+{
+  border: 17px dashed rgb(192, 231, 137);
+  width: 380px;
+  height: 300px; 
+}
+
+#result
+{
+  border: 17px dashed rgb(192, 231, 137);
+  width: 350px;
+  height: 300px;
+  box-align: right;
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+
+.heading
+{
+  font-size: 25px;
+  border-radius: 15px;
+  letter-spacing: 18px;
+}
